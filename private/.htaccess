@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Staff access"
-AuthUserFile "/app/haukai-resturant/private/.htpasswd"
+AuthUserFile "/app/private/.htpasswd"
 Require valid-user
