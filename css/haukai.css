@@ -289,3 +289,29 @@ a {
   padding-bottom: 1%;
   padding-left: 1%;
 }
+
+#staff-name-header,
+#staff-role-header,
+#staff-cell-header {
+  
+  text-align: center;
+}
+
+#staff-name-list-item {
+  font-weight: bold;
+}
+
+.li-1 {
+  background-color: whitesmoke;
+}
+
+.li-2 {
+  background-color: lightgray;  
+}
+
+.list-item-attribute {
+  width: 33%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
